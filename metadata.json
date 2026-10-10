@@ -1,0 +1,6 @@
+{
+  "name": "ResQPulse - Emergency Intelligence & Disaster Response Command Center",
+  "description": "AI-powered disaster management and emergency intelligence command platform for crisis report ingestion, NLP classification, geolocation clustering, credibility assessment, and priority dispatching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
